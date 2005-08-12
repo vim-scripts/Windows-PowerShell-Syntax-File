@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1327
+
+Provides syntax support for Windows PowerShell (formerly known as MSH/Monad) scripts. Best used with the Windows PowerShell Indent file and Filetype Plugin file (vimscript #1815 and vimscript #1816).
